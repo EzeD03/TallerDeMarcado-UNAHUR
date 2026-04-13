@@ -3,7 +3,14 @@
     "fecha": "2025-04-01",
     "turnos": [
         {
-
+            "hora": "09:00",
+            "paciente": "Juan Perez",
+            "motivo": "Consulta general"
+        },
+        {
+            "hora": "10:30",
+            "paciente": "Maria Lopez",
+            "motivo": "Dolor de cabeza"
         }
     ]
 }
