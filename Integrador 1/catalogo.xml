@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo version="2.1" fecha="2025-04-01" empresa="TurismoYa S.A.">
+    <destino id="0001">
+        <nombre>Cataratas del Iguazú</nombre>
+        <pais>Argentina</pais>
+        <precio_usd>320</precio_usd>
+        <duracion_dias>4</duracion_dias>
+        <descripcion>Un viaje inolvidable a las majestuosas cataratas.</descripcion>
+    </destino>  
+</catalogo>
