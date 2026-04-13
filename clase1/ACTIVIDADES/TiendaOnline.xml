@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tienda_online>
+    <productos_de_limpieza id="001">
+        <escobas>
+            <nombre></nombre>
+            <precio></precio>
+            <descripcion></descripcion>
+        </escobas>
+        <franelas>
+            <nombre></nombre>
+            <precio></precio>
+            <descripcion></descripcion>
+        </franelas>
+    </productos_de_limpieza>
+    <snacks id="002">
+        <papas_fritas>
+            <nombre></nombre>
+            <precio></precio>
+            <descripcion></descripcion>
+        </papas_fritas>
+        <barras_de_cereal>
+            <nombre></nombre>
+            <precio></precio>
+            <descripcion></descripcion>
+        </barras_de_cereal>
+    </snacks>
+</tienda_online>

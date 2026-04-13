@@ -1,0 +1,26 @@
+{
+    "Productos de Limpieza": {
+        "escobas": {
+            "nombre": "Escoba de Fibra",
+            "precio": 15.99,
+            "descripcion": "Escoba de fibra sintética ideal para barrer superficies interiores y exteriores."
+        },
+        "franelas": {
+            "nombre": "Franelas de Microfibra",
+            "precio": 9.99,
+            "descripcion": "Juego de 3 franelas de microfibra para limpiar y pulir superficies sin rayar."
+        }
+    },
+    "Snacks": {
+        "papas_fritas": {
+            "nombre": "Papas Fritas Clásicas",
+            "precio": 2.99,
+            "descripcion": "Papas fritas crujientes con un toque de sal, perfectas para acompañar tus comidas o como snack."
+        },
+        "barras_de_cereal": {
+            "nombre": "Barras de Cereal con Chocolate",
+            "precio": 1.49,
+            "descripcion": "Barras de cereal con trozos de chocolate, ideales para un snack rápido y delicioso."
+        }
+    }
+}

@@ -1,0 +1,12 @@
+<estudiante> 
+    <nombre>Pablo Rodriguez</nombre> 
+    <edad>21</edad> 
+    <carrera>Ingeniería en Informática</carrera> 
+    <cursos> 
+        <curso>Matemáticas</curso> 
+        <curso>Física</curso> 
+    </estudiante>
+</cursos>
+
+# En este ejemplo se encuentra el error de que la etiqueta de cierre es incorrecta, ya que su apertura es <estudiante>
+# A la vez, como etiqueta hija de <estudiante> se encuentra <cursos>, pero su cierre es </estudiante>, lo cual también es un error.

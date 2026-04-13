@@ -1,0 +1,15 @@
+[{ 
+    "nombre": "María López", 
+    "edad": 22, 
+    "carrera": "Administración de Empresas", 
+    "cursos": [ 
+        "Economía", 
+        "Contabilidad" 
+    ]
+
+},{
+    "error": "El error en este JSON es que el corchete de cierre de la lista de cursos es incorrecto, ya que se encuentra una llave de cierre. Reemplazada por el corchete de cierre correcto para la lista de cursos.",
+    "estado": "Corregido"
+}
+]
+

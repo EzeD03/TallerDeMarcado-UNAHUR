@@ -1,0 +1,18 @@
+{
+    "nombre": "Tortilla de Patatas",
+    "ingredientes": [
+        "4 patatas medianas",
+        "1 cebolla grande",
+        "6 huevos",
+        "Aceite de oliva",
+        "Sal"
+    ],
+    "pasos a seguir": [
+        "Pelar y cortar las patatas en rodajas finas.",
+        "Pelar y picar la cebolla.",
+        "Calentar aceite de oliva en una sartén grande y freír las patatas y la cebolla hasta que estén tiernas.",
+        "Batir los huevos en un bol grande y añadir las patatas y la cebolla fritas. Mezclar bien.",
+        "Calentar un poco de aceite en una sartén más pequeña y verter la mezcla de huevo, patatas y cebolla.",
+        "Cocinar a fuego medio-bajo hasta que el huevo esté cuajado por debajo, luego dar la vuelta a la tortilla con la ayuda de un plato o una tapa y cocinar el otro lado hasta que esté dorado."
+    ]
+}

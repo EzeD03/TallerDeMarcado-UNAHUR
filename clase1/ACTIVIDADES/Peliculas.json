@@ -1,0 +1,30 @@
+{
+    "catálogo de películas": {
+        "genero": {
+            "Ciencia Ficción": [
+                {
+                "titulo": "Blade Runner",
+                "director": "Ridley Scott",
+                "sinopsis": "En un futuro distópico, un ex-policía es contratado para cazar a unos replicantes que se han rebelado contra sus creadores."
+                },
+                {
+                "titulo": "Matrix",
+                "director": "Lana y Lilly Wachowski",
+                "sinopsis": "Un hacker descubre que la realidad que conoce es una simulación creada por máquinas para controlar a la humanidad."
+                }
+            ],
+            "Comedia": [
+                {
+                "titulo": "Superbad",
+                "director": "Greg Mottola",
+                "sinopsis": "Dos amigos de secundaria intentan disfrutar de su última noche juntos antes de ir a la universidad, enfrentándose a situaciones cómicas y embarazosas."
+                },
+                {
+                "titulo": "The Hangover",
+                "director": "Todd Phillips",
+                "sinopsis": "Un grupo de amigos se despierta después de una noche de fiesta en Las Vegas sin recordar nada y con el novio desaparecido, lo que los lleva a una serie de aventuras para encontrarlo."
+                }
+            ]
+        }
+    }
+}

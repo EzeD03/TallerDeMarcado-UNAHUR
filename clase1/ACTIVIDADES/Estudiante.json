@@ -1,0 +1,10 @@
+{
+    "nombre": "Juan Pérez",
+    "edad": 22,
+    "Carrera": "Ingeniería en Sistemas",
+    "cursos": [
+        "Matemáticas",
+        "Física",
+        "Programación"
+    ]
+}

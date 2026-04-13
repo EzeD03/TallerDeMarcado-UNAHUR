@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu>
+    <entrada id="001">
+        <nombre>Ensalada César</nombre>
+        <precio>8.50</precio>
+    </entrada>
+    <plato_principal id="002">
+        <nombre>Bistec a la Parrilla</nombre>
+        <precio>15.00</precio>
+    </plato_principal>
+    <postre id="003">
+        <nombre>Tarta de Chocolate</nombre>
+        <precio>6.00</precio>
+    </postre>
+    <bebida id="004">
+        <nombre>Jugo Natural</nombre>
+        <precio>3.00</precio>
+    </bebida>
+</menu>

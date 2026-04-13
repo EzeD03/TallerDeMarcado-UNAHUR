@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo_de_peliculas>
+    <genero>
+        <ciencia_ficcion id="gen_001">
+            <pelicula id="pel_001">
+                <titulo>Blade Runner</titulo>
+                <director>Ridley Scott</director>
+                <sinopsis>En un futuro distópico, un ex-policía es contratado para cazar a unos replicantes que se han rebelado contra sus creadores.</sinopsis>
+            </pelicula>
+            <pelicula id="pel_002">
+                <titulo>Matrix</titulo>
+                <director>Lana y Lilly Wachowski</director>
+                <sinopsis>Un hacker descubre que la realidad que conoce es una simulación creada por máquinas para controlar a la humanidad</sinopsis>
+            </pelicula>
+        </ciencia_ficcion>
+        <comedia id="gen_002">
+            <pelicula id="pel_003">
+                <titulo>Superbad</titulo>
+                <director>Greg Mottola</director>
+                <sinopsis>Dos amigos de secundaria intentan disfrutar de su última noche juntos antes de ir a la universidad, enfrentándose a situaciones cómicas y embarazosas.</sinopsis>
+            </pelicula>
+            <pelicula id="pel_004">
+                <titulo>The Hangover</titulo>
+                <director>Todd Phillips</director>
+                <sinopsis>Un grupo de amigos se despierta después de una noche de fiesta en Las Vegas sin recordar nada y con el novio desaparecido, lo que los lleva a una serie de aventuras para encontrarlo.</sinopsis>
+            </pelicula>
+        </comedia>
+    </genero>
+</catalogo_de_peliculas>
